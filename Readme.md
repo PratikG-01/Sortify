@@ -34,7 +34,7 @@ Designed to be simple, safe, and practical for real-world use.
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - Python 3
 - `pathlib`
@@ -44,4 +44,5 @@ Designed to be simple, safe, and practical for real-world use.
 ---
 
 ##  Project Structure
+
 
