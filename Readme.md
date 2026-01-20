@@ -74,14 +74,3 @@ No changes to core logic required.
 This project is open-source and available under the MIT License.
 
 ---
-
-
-
-
-
-
-
-
-
-
-
