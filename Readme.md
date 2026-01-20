@@ -65,7 +65,7 @@ You can:
 
 - Control output verbosity
 
-- No changes to core logic required.
+No changes to core logic required.
 
 ---
 
@@ -74,6 +74,7 @@ You can:
 This project is open-source and available under the MIT License.
 
 ---
+
 
 
 
