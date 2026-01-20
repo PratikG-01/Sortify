@@ -53,7 +53,7 @@ Designed to be simple, safe, and practical for real-world use.
 
 ## Configuration
 
-All behavior is controlled via config.py.
+All behavior is controlled via **config.py.**
 
 You can:
 
@@ -74,6 +74,7 @@ You can:
 This project is open-source and available under the MIT License.
 
 ---
+
 
 
 
