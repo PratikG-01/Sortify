@@ -71,6 +71,3 @@ if __name__ == "__main__":
     target_folder = Path(user_input) if user_input else DEFAULT_TRG_FOLDER
 
     organize_folder(target_folder)
-
-
-
