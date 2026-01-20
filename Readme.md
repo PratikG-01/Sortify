@@ -47,7 +47,7 @@ Designed to be simple, safe, and practical for real-world use.
 
 1. Clone the repository
 
-git clone https://github.com/your-username/file-organizer.git
+   git clone https://github.com/your-username/file-organizer.git
 
 ---
 
@@ -73,6 +73,7 @@ You can:
 This project is open-source and available under the MIT License.
 
 ---
+
 
 
 
