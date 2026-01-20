@@ -64,12 +64,12 @@ def organize_folder(folder_path: Path) -> None:
 
 
 if __name__ == "__main__":
-    print(" _________________________________________________")
-    print("|________ AUTOMATED_FILE_ORGANIZER ______________/")
-    print("|_______________________________________/\n")
+    print("AUTOMATED_FILE_ORGANIZER")
+  
     print("Press Enter to use default folder or provide a custom path.\n")
 
     user_input = input(f"Folder path [{DEFAULT_TRG_FOLDER}]: ").strip()
     target_folder = Path(user_input) if user_input else DEFAULT_TRG_FOLDER
 
     organize_folder(target_folder)
+
