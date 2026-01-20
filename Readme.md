@@ -43,7 +43,35 @@ Designed to be simple, safe, and practical for real-world use.
 
 ---
 
-##  Project Structure
+##  How to Run
+
+1. Clone the repository
+
+git clone https://github.com/your-username/file-organizer.git/****
+
+---
+## Configuration
+
+All behavior is controlled via ##config.py.
+You can:
+
+- Add or modify file categories
+
+- Change the default target folder
+
+- Enable/disable overwrite protection
+
+- Control output verbosity
+
+- No changes to core logic required.
+
+
+---
+
+##  
+
+---
+
 
 
 
