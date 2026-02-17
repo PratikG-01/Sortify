@@ -47,7 +47,7 @@ Designed to be simple, safe, and practical for real-world use.
 
 1. Clone the repository
 
-   git clone https://github.com/PratikG-01/file-organizer.git
+   git clone https://github.com/PratikG-01/Sortify.git
 
 ---
 
