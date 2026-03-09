@@ -46,9 +46,9 @@ Designed to be simple, safe, and practical for real-world use.
 ##  How to Run
 
 1. Clone the repository
-
+```
    git clone https://github.com/PratikG-01/Sortify.git
-
+```
 ---
 
 ## Configuration
@@ -74,3 +74,4 @@ No changes to core logic required.
 This project is open-source and available under the MIT License.
 
 ---
+
